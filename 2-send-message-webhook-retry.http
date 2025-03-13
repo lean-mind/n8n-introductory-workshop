@@ -1,0 +1,6 @@
+POST http://localhost:5678/webhook/retry
+Content-Type: application/json
+
+{
+  "message": "Some message"
+}
